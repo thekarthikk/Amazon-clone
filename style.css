@@ -3,6 +3,9 @@
     font-family: sans-serif;
     border: border-box;
 }
+body::-webkit-scrollbar {
+    display: none;
+}
 .navbar{
     height: 60px;
     background-color: #0f1111;
