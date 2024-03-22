@@ -1,2 +1,3 @@
 # Amazon-clone
-Clone of Amazon 
+Clone of Amazon
+Used Html & Css 
